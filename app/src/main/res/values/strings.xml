@@ -1,0 +1,155 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">TourGuideApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="his_img">
+        <item>@drawable/charminar</item>
+        <item>@drawable/golconda</item>
+        <item>@drawable/ramoji</item>
+        <item>@drawable/hussain</item>
+    </string-array>
+    <string-array name="his_places">
+        <item>Charminar</item>
+        <item>Golconda Fort</item>
+        <item>Ramoji Film City</item>
+        <item>Hussain Sagar Lake</item>
+    </string-array>
+    <string-array name="his_description">
+        <item>The Charminar, constructed in 1591, is a monument and mosque located in Hyderabad, Telangana, India. The landmark has become known globally as a symbol of Hyderabad and is listed among the most recognized structures in India. </item>
+        <item>Just 11 km away from the city, the architectural marvel Golconda Fort is well connected to the rest of the city. Built by Qutub Shahi Kings, this fort presents an impressive structure, with eight gates and 87 bastions.\n
+Its impressive structure has majestic walls which are as high as 15 to 18 foot and a parameter of close to 11 km. Along with brilliant architecture, this fort also captivates its visitors with its system of acoustics, its water supply system, \'Rahban\' cannon and Ramdas\’ prison which has carved Hindu deity in it.</item>
+        <item>Since 1991, Ramoji Film City has been alluring tourists from every corner of the country. One of the largest film studios in the world it has the capacity to house almost 50 film units within a given point of time.\n
+It is also listed in Guinness Book of World Records as well. Spread over 2500 acres, it is situated about 30 km away from Hyderabad. Its brilliant architecture and sound technical facilities make it suitable for all the pre and post production of a film.</item>
+        <item>Hussain Sagar Lake is one of the most popular landmarks and tourist attractions situated just 2km away from the heart of Hyderabad city. It is also called as the Tank Bund that connects both the twin cities Hyderabad and Secunderabad and is acclaimed as one of Asia’s largest man-made lake. Hussain Sagar Lake is named after Hussain Shah Wali, who helped in designing the lake and it was built across a tributary of the Musi river in 1563 AD during the reign of Ibrahim Quli Qutub Shah. Initially, this lake was built to provide irrigation and other water needs. The lake has been declared as the heart of the world because of its unique heart-shaped outline by the United Nations World Tourism Organization (UNWTO).</item>
+    </string-array>
+    <string-array name="his_number">
+        <item>040 6674 5986</item>
+        <item>040 2351 2401</item>
+        <item>1800 120 2999</item>
+        <item>1800 4254 6464</item>
+    </string-array>
+    <string-array name="his_link">
+        <item>https://www.hyderabadtourism.travel/charminar-hyderabad</item>
+        <item>https://www.hyderabadtourism.travel/golconda-fort-hyderabad</item>
+        <item>http://www.ramojifilmcity.com/</item>
+        <item>https://www.hyderabadtourism.travel/hussain-sagar-lake-hyderabad</item>
+    </string-array>
+    <string-array name="his_location">
+        <item>17.3616,78.4747</item>
+        <item>17.3833,78.4011</item>
+        <item>17.2543,78.6808</item>
+        <item>17.4239,78.4738</item>
+    </string-array>
+    <string-array name="his_timing">
+        <item>Open: 9am to 5:30pm</item>
+        <item>Open: 9am to 5:30pm</item>
+        <item>Open: 9am to 5:30pm</item>
+        <item>Open: 8am to 10pm</item>
+    </string-array>
+    <string-array name="food_img">
+        <item>@drawable/biriyani</item>
+        <item>@drawable/haleem</item>
+        <item>@drawable/chicken65</item>
+        <item>@drawable/phirni</item>
+    </string-array>
+    <string-array name="food_names">
+        <item>Mutton/Chicken Biryani</item>
+        <item>Haleem</item>
+        <item>Chicken 65</item>
+        <item>Phirni</item>
+    </string-array>
+    <string-array name="food_description">
+        <item>If you were to rank the cuisine of Hyderabad by popularity, the biryani of Hyderabad will be at the top of the charts without the least confusion in the matter. Most people would be ready to consume it at any hour of the day and its rich aromatic flavour and taste never fail to bring anyone back for a second helping! It is usually made with mutton, but chicken biryani is also a hot favourite.</item>
+        <item>Mostly made from mutton, nuts and spices and wheat, this slow-cooked dish is a hot favourite of people, without reference to religion. This dish provides special sustenance to people of Islamic faith who fast most stringently, refusing to even swallow their own saliva, for the 40 days leading up to the festival of Ramzan. Come Ramzan, everybody queues up for their fair share of this delicacy.</item>
+        <item>OM NOM NOM!! The only words that come to my mind when I think of this heavenly appetiser. This spicy deep fried starter garnished with coriander leaves, and onion is the best way to start your 3-course meal.</item>
+        <item>This sweet dessert is yet another Ramadan special. Usually made and served in clay pots, this fragrant rice and milk-based dessert is a lovely treat for your taste buds. Easy on the stomach, this flavour infused dessert is the one to gorge on after a heavy and delicious meal.</item>
+    </string-array>
+    <string-array name="shop_img">
+        <item>@drawable/inorbit</item>
+        <item>@drawable/gvk</item>
+        <item>@drawable/forum</item>
+        <item>@drawable/sarath</item>
+    </string-array>
+    <string-array name="shop_places">
+        <item>Inorbit Mall</item>
+        <item>GVK One Mall</item>
+        <item>Forum Sujana Mall</item>
+        <item>Sarah City Capital Mall</item>
+    </string-array>
+    <string-array name="shop_description">
+        <item>This massive 6 storied mall confides over 200 local and international brands outlets spread across different floors, variety of eateries, play areas for your kids, a bowling arena, a book-worm hangout spot; crossword, gaming junctions for kids and adults, makeover sections, you could also go beer-ing at Beerhouse, movie theatres; Inox, Cinemax, PVR, jewellery stores and lists more!\n
+              There is something for everyone at the Inorbit Mall. </item>
+        <item>This choicest luxury mall located in Banjara Hills was started in 2009. Covering a vast 3.5 lakh sq feet arena, it is one of the most sought after malls in Hyderabad by locals, as it acts as an amusement getaway more than just a shopping mall. The mall has a five-level parking facility and a level one parking area exclusively for women to ease their entry and exit.\n\n
+              It hosts six screens of the INOX cinemas, an aquarium, three levels of shoppers stop, rich interiors and a dedicated 25000 sq feet kids arena called "Fun Zone". There is a variety of eating and hanging out spots within the mall keeping up the spirit of a good life, found in various malls, including the famous Hard Rock Cafe, KFC, Khan Saheb, CreamStone, Starbucks and much more. It is a promising visit that could entertain you and your family for the day. </item>
+        <item>One of the biggest malls in Hyderabad that pretty much tops the list of the Hyderabadis, the Forum Sujana Mall was established in 2014. Engulfing a vast 820,000 sq ft, the mall is a whole five-storied building with a variety of stores on each floor, equipped with escalators and other essential amenities for any mall addict or just a visitor. The parking provided by the mall is quite comfortable to fit both 2 and 4 wheelers but may seem crowded on weekends.\n\n
+              This Hyderabadi forum, commutable and convenient like the other malls in the city, houses an assorted collection of local and international brands of various luxury products for women, children and men such as Zara, Allen Solly, William Penn, Forever 21, Pantaloons, Carat Lane, Market 99 and many more on all four floors with a movie theatre on the fifth floor. There are different eateries stationed at each floor serving all your special taste bud needs. </item>
+        <item>You might be surprised if we told you that a mall is expanded up to 8 stories! Well, welcome to Sarath Capital Mall. This massive mall located in Gachibowli, established in 2018, covers a vast space not only in the city but is one of the biggest malls in Hyderabad and the country as well! The Sarath Capital Mall encloses a seven-screen multiplex, over 500 local and international brands of clothing, jewellery, accessories, home decor, electronics and loads more.\n\n There are food courts on the first and the seventh floor serving the needs of thousands of taste buds. There are four levels of parking space that could accommodate over 1400 four-wheelers and 4000 two-wheelers. An open-air auditorium that hosts various concerts and festivals, seating over 900 people is set up on the fifth floor. </item>
+    </string-array>
+    <string-array name="shop_number">
+        <item>40-44880000</item>
+        <item>040 4276 7600</item>
+        <item>040 3053 4053</item>
+        <item>040 6821 8333</item>
+    </string-array>
+    <string-array name="shop_link">
+        <item>https://www.inorbit.in/</item>
+        <item>https://lbb.in/hyderabad/mall/gvk-one-mall-hyderabad</item>
+        <item>https://www.forummalls.in/forum-sujana/</item>
+        <item>https://sarathcitycapitalmall.com/</item>
+    </string-array>
+    <string-array name="shop_location">
+        <item>17.4344,78.3866</item>
+        <item>17.4193,78.4485</item>
+        <item>17.4843,78.3889</item>
+        <item>17.4576,78.3639</item>
+    </string-array>
+    <string-array name="shop_timing">
+        <item>Open: 11am to 9:30pm</item>
+        <item>Open: 11am to 9:30pm</item>
+        <item>Open: 11am to 10pm</item>
+        <item>Open: 11am to 10pm</item>
+    </string-array>
+    <string-array name="hotel_img">
+        <item>@drawable/trident</item>
+        <item>@drawable/kohenur</item>
+        <item>@drawable/tajkrishna</item>
+        <item>@drawable/sheraton</item>
+    </string-array>
+    <string-array name="hotel_places">
+        <item>Trident Hyderabad</item>
+        <item>ITC Kohenur Hyderabad</item>
+        <item>Taj Krishna</item>
+        <item>Sheraton Hyderabad</item>
+    </string-array>
+    <string-array name="hotel_description">
+        <item>Trident, Hyderabad offers a range of wellness and luxury recreation facilities at The Trident Spa and fitness centre. Having worked up an appetite, you can take your pick of their fine dining restaurants, which serve a wide selection of the best local fare as well as international cuisine.</item>
+        <item>Located in the heart of Hyderabad\’s new business district (HITEC City) and overlooking the picturesque Durgam Lake, ITC Kohenur is an ode to those rare and priceless experiences and creations we proudly call our own. It\’s a celebration of tradition and a triumph of culture. The hotel takes inspiration from the famed jewel and offers amongst the finest accommodation and dining experiences.</item>
+        <item>The City of Nizams welcomes you to its cocoon of resplendence. Spread across thirteen acres of serene greenery, the Taj Krishna is a reflection of Hyderabad\’s inimitable hospitality. It is located in Banjara Hills, in the heart of the historical city of Hyderabad. Treat your eyes to a panoramic view of this beautiful city and the calm of the Hussain Sagar Lake. Half an hour away from the airport, the hotel is conveniently located for travellers both for business and pleasure. Take your taste buds on a tour of authentic Hyderabadi recipes or sample some North-West Frontier cuisine at Firdaus. </item>
+        <item>Surrounded by multinational corporations like Amazon, Microsoft and ISB, the Sheraton Hyderabad Hotel is located in the midst of city\'s financial district of Gachibowli. Within walking distance of the hotel are numerous business offices. Rajiv Gandhi International Airport (HYD) can be reached by car in 30 minutes. Modern architecture and technology centers are the hallmarks of our 272 guest rooms, and suites.</item>
+    </string-array>
+    <string-array name="hotel_number">
+        <item>+91 11 23890555</item>
+        <item>1-800-419-6444</item>
+        <item>1-800-111-825</item>
+        <item>040 4925 1111</item>
+    </string-array>
+    <string-array name="hotel_link">
+        <item>https://www.tridenthotels.com/hotels-in-hyderabad</item>
+        <item>https://www.itchotels.com/in/en/itckohenur-hyderabad</item>
+        <item>https://www.tajhotels.com/en-in/taj/taj-krishna-hyderabad/</item>
+        <item>https://www.marriott.com/hotels/travel/hydsi-sheraton-hyderabad-hotel/</item>
+    </string-array>
+    <string-array name="hotel_location">
+        <item>17.4497,78.3789</item>
+        <item>17.4320,78.3850</item>
+        <item>17.415,78.440</item>
+        <item>17.4222,78.3365</item>
+    </string-array>
+    <string-array name="hotel_timing">
+        <item>Open: 11am to 9:30pm</item>
+        <item>Open: 11am to 9:30pm</item>
+        <item>Open: 11am to 10pm</item>
+        <item>Open: 11am to 10pm</item>
+    </string-array>
+
+</resources>

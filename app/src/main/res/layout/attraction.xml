@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/royal_blue"
+    >
+    <LinearLayout
+        android:id="@+id/container"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Attraction">
+
+        <TextView
+            android:id="@+id/title_att"
+            android:layout_marginTop="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/royal_blue"
+            android:fontFamily="@font/cinzel_decorative_bold"
+            android:gravity="center_horizontal"
+            android:paddingBottom="20dp"
+            android:textColor="#ffd700"
+            android:textSize="37sp"
+            tools:text="Charminar" />
+        <ImageView
+            android:id="@+id/att_image"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/charminar" />
+        <LinearLayout
+            android:id="@+id/icons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
+
+            <ImageView
+                android:id="@+id/call"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/baseline_phone_white_18dp" />
+            <ImageView
+                android:id="@+id/web"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:src="@drawable/baseline_language_white_18dp"/>
+
+            <ImageView
+                android:id="@+id/map"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/baseline_place_white_18dp" />
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Summary"
+            android:gravity="center_horizontal"
+            android:textSize="25sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:textColor="@color/white"
+            android:textAllCaps="true"/>
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/crimson_text_semibold"
+            android:textColor="#FFFFF0"
+            android:textSize="24sp"
+            tools:text="Some random text"
+            android:lineHeight="38dp"/>
+
+        <TextView
+            android:id="@+id/timing"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="#FF0000"
+            tools:text="Open: 7am to 9pm"
+            android:textSize="18sp" />
+    </LinearLayout>
+</ScrollView>
